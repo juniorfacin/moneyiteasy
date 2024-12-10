@@ -1,0 +1,44 @@
+/* Login */
+html,
+body {
+    background-color: #F6F7F8;
+    color: #5F6673;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* Login */
+.img-login {
+    width: 80%;
+    height: auto;
+}
+
+.form-container {
+    max-width: 30rem;
+    padding: 1rem;
+}
+
+.social-icons {
+    font-size: 1rem;
+    color: #5F6673;
+}
+
+.font-footer {
+    font-size: 10px;
+}
+
+.bg-header {
+    background-color: #24C456;
+}
+
+/*Footer */
+footer {
+    margin-top: auto;
+}
+
+/* Dashboard Financeiro */
+.body-dashboard {
+    color: #1F2937;
+}
